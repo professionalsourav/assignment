@@ -3,7 +3,9 @@
 
 
 1.first clone the git repo
+
 2.open the terminal
+
 3.run "npm i"
 
 First, run the development server:
